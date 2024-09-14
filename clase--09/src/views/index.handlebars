@@ -1,0 +1,25 @@
+<h1>Hola Mundo, estoy programando desde Express-Handlebars</h1>
+<h2>Aguanten los motores de plantillas</h2>
+
+<h3>Mi nombre es: {{usuario.nombre}} </h3>
+<h3>Mi apellido es: {{usuario.apellido}} </h3>
+
+{{!-- Acá vamos a poder mostrar el array de productos:  --}}
+
+{{#each arrayProductos}}
+    <div>
+        <h4>Nombre: {{this.nombre}} </h4>
+        <p>Descripción: {{this.descripcion}} </p>
+        <p>Precio: {{this.precio}} </p>
+        <button> Comprar </button>
+    </div>
+{{/each}}
+
+{{!-- Trabajamos con condicionales --}}
+
+{{#if usuario.mayorEdad}}
+    <p>Es mayor de edad, puede ingresar</p>
+{{else }}
+    <p> Es menor de edad, anda a tu casa a estudiar maldito joven!</p>
+{{/if}}
+
