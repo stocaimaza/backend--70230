@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Max",
+        "edad": 3
+    },
+    {
+        "nombre": "Bella",
+        "edad": 2
+    },
+    {
+        "nombre": "Charlie",
+        "edad": 4
+    },
+    {
+        "nombre": "Daisy",
+        "edad": 1
+    },
+    {
+        "nombre": "Rocky",
+        "edad": 5
+    },
+    {
+        "nombre": "Luna",
+        "edad": 2
+    },
+    {
+        "nombre": "Buddy",
+        "edad": 6
+    },
+    {
+        "nombre": "Molly",
+        "edad": 3
+    },
+    {
+        "nombre": "Oliver",
+        "edad": 2
+    },
+    {
+        "nombre": "Zoe",
+        "edad": 4
+    }
+]

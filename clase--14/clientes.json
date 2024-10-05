@@ -1,0 +1,102 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "edad": 28
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Gómez",
+        "edad": 34
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Martínez",
+        "edad": 45
+    },
+    {
+        "nombre": "Marta",
+        "apellido": "López",
+        "edad": 23
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Sánchez",
+        "edad": 31
+    },
+    {
+        "nombre": "Sofía",
+        "apellido": "Rodríguez",
+        "edad": 29
+    },
+    {
+        "nombre": "José",
+        "apellido": "Fernández",
+        "edad": 37
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Hernández",
+        "edad": 41
+    },
+    {
+        "nombre": "Diego",
+        "apellido": "Morales",
+        "edad": 26
+    },
+    {
+        "nombre": "Valeria",
+        "apellido": "Castillo",
+        "edad": 32
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "Ramírez",
+        "edad": 38
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Vásquez",
+        "edad": 27
+    },
+    {
+        "nombre": "Andrés",
+        "apellido": "Cruz",
+        "edad": 30
+    },
+    {
+        "nombre": "Elena",
+        "apellido": "Salazar",
+        "edad": 39
+    },
+    {
+        "nombre": "Fernando",
+        "apellido": "Mendoza",
+        "edad": 44
+    },
+    {
+        "nombre": "Patricia",
+        "apellido": "Ortega",
+        "edad": 36
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Rojas",
+        "edad": 42
+    },
+    {
+        "nombre": "Claudia",
+        "apellido": "Guerrero",
+        "edad": 25
+    },
+    {
+        "nombre": "Sergio",
+        "apellido": "Díaz",
+        "edad": 33
+    },
+    {
+        "nombre": "Camila",
+        "apellido": "Cordero",
+        "edad": 24
+    }
+]
